@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/archives/</loc>
+    <loc>agrisoil.github.io/archives/</loc>
     <lastmod>2022-12-20T00:05:38+05:30</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>agrisoil.github.io/</loc>
     <lastmod>2022-12-20T00:04:22+05:30</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>agrisoil.github.io/posts/</loc>
     <lastmod>2022-12-20T00:04:22+05:30</lastmod>
   </url><url>
-    <loc>/posts/second/</loc>
+    <loc>agrisoil.github.io/posts/second/</loc>
     <lastmod>2022-12-20T00:04:22+05:30</lastmod>
   </url><url>
-    <loc>/posts/first/</loc>
+    <loc>agrisoil.github.io/posts/first/</loc>
     <lastmod>2022-12-20T00:04:05+05:30</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>agrisoil.github.io/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>agrisoil.github.io/tags/</loc>
   </url>
 </urlset>

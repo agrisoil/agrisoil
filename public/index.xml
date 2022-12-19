@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AgriSoil</title>
-    <link>/</link>
+    <link>agrisoil.github.io/</link>
     <description>Recent content on AgriSoil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Dec 2022 00:04:22 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Dec 2022 00:04:22 +0530</lastBuildDate><atom:link href="agrisoil.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archives</title>
-      <link>/archives/</link>
+      <link>agrisoil.github.io/archives/</link>
       <pubDate>Tue, 20 Dec 2022 00:05:38 +0530</pubDate>
       
-      <guid>/archives/</guid>
+      <guid>agrisoil.github.io/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>/posts/second/</link>
+      <link>agrisoil.github.io/posts/second/</link>
       <pubDate>Tue, 20 Dec 2022 00:04:22 +0530</pubDate>
       
-      <guid>/posts/second/</guid>
+      <guid>agrisoil.github.io/posts/second/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First</title>
-      <link>/posts/first/</link>
+      <link>agrisoil.github.io/posts/first/</link>
       <pubDate>Tue, 20 Dec 2022 00:04:05 +0530</pubDate>
       
-      <guid>/posts/first/</guid>
+      <guid>agrisoil.github.io/posts/first/</guid>
       <description></description>
     </item>
     
