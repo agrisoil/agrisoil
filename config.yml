@@ -1,33 +1,43 @@
 baseURL: "https://agrisoil.github.io"
 languageCode: en-us
 title: AgriSoil
+paginate: 5
 theme: PaperMod
 
 params:
+  showToc: true
+  TocOpen: false
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
   homeInfoParams:
-    Title: "Hello Stranger !"
-    Content: Welcome to my blog. Here you'll find a lot of cool information about a lot of cool stuff.
-  socialIcons:
-    - name: facebook
-      url: "https://facebook.com/"
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: github
-      url: "https://github.com/"
-
+    Title: "Hello There,"
+    Content: "Welcome to AgriSoil! Here you'll find a lot of cool information about a Agriculture Soil. We provides information and resources related to the soil used in agriculture. It covers topics such as soil types, soil health, soil management, and soil conservation. AgriSoil is a valuable resource for farmers, agricultural professionals, and anyone interested in learning more about the role of soil in growing crops and raising livestock. " 
+  # socialIcons:
+  #   - name: facebook
+  #     url: "https://facebook.com/"
+  #   - name: twitter
+  #     url: "https://twitter.com/"
+  #   - name: github
+  #     url: "https://github.com/"
   cover:
     linkFullImages: true
-
   ShowBreadCrumbs: true
-
   ShowReadingTime: true
-
   ShowShareButtons: true
-
   ShowPostNavLinks: true
 
 menu:
   main:
+    # - identifier: home
+    #   name: Home
+    #   url: /
+      # weight: 10
     - identifier: categories
       name: Categories
       url: /categories/
@@ -40,3 +50,17 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+    - identifier: contact
+      name: contact
+      url: /contact/
+      weight: 50
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
