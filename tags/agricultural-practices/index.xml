@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Agricultural practices on AgriSoil</title>
+    <link>https://agrisoil.github.io/tags/agricultural-practices/</link>
+    <description>Recent content in Agricultural practices on AgriSoil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Dec 2022 00:04:05 +0530</lastBuildDate><atom:link href="https://agrisoil.github.io/tags/agricultural-practices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Techniques for Preventing Soil Compaction: Tips and Strategies</title>
+      <link>https://agrisoil.github.io/posts/soil-compaction/</link>
+      <pubDate>Fri, 09 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://agrisoil.github.io/posts/soil-compaction/</guid>
+      <description>Introduction Soil compaction is the process of reducing the volume of soil by squeezing out air and water, thereby increasing soil density. It occurs naturally over time due to the action of weathering processes, but can also be induced by human activities such as construction and farming. Soil compaction has many effects on the environment, including changes in soil structure, fertility, water retention, and plant growth. In this report, we will discuss the causes, impacts, and strategies for preventing and improving compacted soil, as well as methods for testing soil compaction.</description>
+    </item>
+    
+    <item>
+      <title>The Health Risks Associated with Soil Contamination</title>
+      <link>https://agrisoil.github.io/posts/soil-contamination/</link>
+      <pubDate>Wed, 07 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://agrisoil.github.io/posts/soil-contamination/</guid>
+      <description>Introduction Soil contamination is a major environmental concern and can have serious impacts on both humans and the environment. Soil contamination occurs when pollutants, such as chemicals, oils, and other hazardous substances, are released into the soil. These pollutants can come from a variety of sources, including industrial and agricultural activities, and can have serious implications for human health and the environment. In this report, we will discuss the types of contaminants that can be found in soil, sources of soil contamination, health risks associated with soil contamination, testing for soil contamination, and strategies for cleaning up contaminated soil.</description>
+    </item>
+    
+    <item>
+      <title>The Role of Soil Salinity in Agriculture and Environmental Health</title>
+      <link>https://agrisoil.github.io/posts/soil-salinity/</link>
+      <pubDate>Thu, 01 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://agrisoil.github.io/posts/soil-salinity/</guid>
+      <description>Introduction Soil salinity is a major problem in agriculture, affecting both crop productivity and the environment. It occurs when salt accumulates in the soil and interferes with the growth of plants. Salinity is caused by a variety of factors, including excessive irrigation, poor drainage and the use of saline water for irrigation. Understanding the causes and effects of soil salinity, and knowing how to monitor and manage it, are important for successful crop production.</description>
+    </item>
+    
+  </channel>
+</rss>

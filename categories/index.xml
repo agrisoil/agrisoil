@@ -5,6 +5,61 @@
     <link>https://agrisoil.github.io/categories/</link>
     <description>Recent content in Categories on AgriSoil</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://agrisoil.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Dec 2022 00:04:05 +0530</lastBuildDate><atom:link href="https://agrisoil.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agriculture</title>
+      <link>https://agrisoil.github.io/categories/agriculture/</link>
+      <pubDate>Tue, 20 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://agrisoil.github.io/categories/agriculture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment</title>
+      <link>https://agrisoil.github.io/categories/environment/</link>
+      <pubDate>Tue, 20 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://agrisoil.github.io/categories/environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soil</title>
+      <link>https://agrisoil.github.io/categories/soil/</link>
+      <pubDate>Tue, 20 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://agrisoil.github.io/categories/soil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate Change</title>
+      <link>https://agrisoil.github.io/categories/climate-change/</link>
+      <pubDate>Thu, 15 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://agrisoil.github.io/categories/climate-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geology</title>
+      <link>https://agrisoil.github.io/categories/geology/</link>
+      <pubDate>Mon, 05 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://agrisoil.github.io/categories/geology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gardening</title>
+      <link>https://agrisoil.github.io/categories/gardening/</link>
+      <pubDate>Sat, 03 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://agrisoil.github.io/categories/gardening/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

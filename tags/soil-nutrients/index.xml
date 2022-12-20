@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Soil nutrients on AgriSoil</title>
+    <link>https://agrisoil.github.io/tags/soil-nutrients/</link>
+    <description>Recent content in Soil nutrients on AgriSoil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Dec 2022 00:04:05 +0530</lastBuildDate><atom:link href="https://agrisoil.github.io/tags/soil-nutrients/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Measuring Soil Health: A Beginner&#39;s Guide</title>
+      <link>https://agrisoil.github.io/posts/soil-health-indicators/</link>
+      <pubDate>Sat, 03 Dec 2022 00:04:05 +0530</pubDate>
+      
+      <guid>https://agrisoil.github.io/posts/soil-health-indicators/</guid>
+      <description>Introduction Soil health is an important factor that affects the productivity and sustainability of a soil. Healthy soil is essential for the growth of plants and animals, providing food, fuel, and fiber. Soil health indicators are used to measure the physical, chemical, and biological characteristics of soil. These indicators can help to identify soil problems and to determine if soil management practices are having a positive or negative effect on soil health.</description>
+    </item>
+    
+  </channel>
+</rss>
