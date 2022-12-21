@@ -9,85 +9,29 @@ You can contact us here!
 
 {{< rawhtml >}}
 
-<html>
-<head>
+<link rel="stylesheet" href="/css/form.css">
 
-<style>
-.btn btn-primary {
-  position: relative;
-  background-color: #4CAF50;
-  border: none;
-  font-size: 28px;
-  color: #FFFFFF;
-  padding: 20px;
-  width: 200px;
-  text-align: center;
-  transition-duration: 0.4s;
-  text-decoration: none;
-  overflow: hidden;
-  cursor: pointer;
-}
+<script type="text/javascript">var submitted=false;</script>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
+onload="if(submitted) {window.location='/thankyou';}"></iframe>
 
-.btn btn-primary:after {
-  content: "";
-  background: #f1f1f1;
-  display: block;
-  position: absolute;
-  padding-top: 300%;
-  padding-left: 350%;
-  margin-left: -20px !important;
-  margin-top: -120%;
-  opacity: 0;
-  transition: all 0.8s
-}
+<form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSf8wEXRTzkYKBFMkEwQeeetaFEINPaqEWJ1PBLhPA-XjplSKg/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true">
+  <label>Name*</label>
+        <input type="text" placeholder="Name*" class="form-input" name="entry.2005620554" required>
 
-.btn btn-primary:active:after {
-  padding: 0;
-  margin: 0;
-  opacity: 1;
-  transition: 0s
-}
-</style>
+  <label>Email*</label>
+        <input type="email" placeholder="Email address*" class="form-input" name="entry.1045781291" required>
 
-</head>
-<body>
-<form method="post" action="https://forms.un-static.com/forms/695d2e604f67e5469d7291742955ed2b144c3417">
-  <div class="form-group row">
-    <label for="name" class="col-4 col-form-label">Name</label>
-    <div class="col-8">
-      <div class="input-group">
-        <div class="input-group-addon">
-          <i class="fa fa-user"></i>
-        </div>
-        <input id="name" name="name" placeholder="Please enter your name" type="text" required="required" class="form-control">
-      </div>
-    </div>
-  </div>
-  <div class="form-group row">
-    <label for="email" class="col-4 col-form-label">E-mail address</label>
-    <div class="col-8">
-      <div class="input-group">
-        <div class="input-group-addon">
-          <i class="fa fa-envelope"></i>
-        </div>
-        <input id="email" name="email" placeholder="Your e-mail address" type="text" required="required" class="form-control">
-      </div>
-    </div>
-  </div>
-  <div class="form-group row">
-    <label for="message" class="col-4 col-form-label">Message</label>
-    <div class="col-8">
-      <textarea id="message" name="message" placeholder="Enter your message here" type="text" cols="40" rows="10" required="required" class="form-control"></textarea>
-    </div>
-  </div>
-  <div class="form-group row">
-    <div class="offset-4 col-8">
-      <button name="submit" type="submit" class="btn btn-primary">Send</button>
-    </div>
-  </div>
+   <label>Subject*</label>
+        <input type="text" placeholder="Subject*" class="form-input" name="entry.1065046570" required>
+
+   <label>Message</label>
+        <textarea rows="5" placeholder="Message" class="form-input" name="entry.839337160" ></textarea>
+
+   <button type="submit">Send</button>
+
+   
 </form>
-</body>
-<html>
-</head>
+
 
 {{< /rawhtml >}}
