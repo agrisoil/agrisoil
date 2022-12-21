@@ -3,6 +3,7 @@ languageCode: en-us
 title: AgriSoil
 paginate: 5
 theme: PaperMod
+googleAnalytics: G-2P8NXJCLJ8
 
 params:
   showToc: true
