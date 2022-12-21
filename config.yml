@@ -56,9 +56,13 @@ menu:
       url: /search/
       weight: 40
     - identifier: contact
-      name: contact
+      name: Contact
       url: /contact/
       weight: 50
+    - identifier: home
+      name: Home
+      url: /
+      weight: 60
 
 outputs:
     home:
