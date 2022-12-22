@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on AgriSoil</title>
-    <link>https://www.agrisoil.us/categories/</link>
+    <link>https://agrisoil.us/categories/</link>
     <description>Recent content in Categories on AgriSoil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Dec 2022 00:04:05 +0530</lastBuildDate><atom:link href="https://www.agrisoil.us/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Dec 2022 00:04:05 +0530</lastBuildDate><atom:link href="https://agrisoil.us/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agriculture</title>
-      <link>https://www.agrisoil.us/categories/agriculture/</link>
+      <link>https://agrisoil.us/categories/agriculture/</link>
       <pubDate>Tue, 20 Dec 2022 00:04:05 +0530</pubDate>
       
-      <guid>https://www.agrisoil.us/categories/agriculture/</guid>
+      <guid>https://agrisoil.us/categories/agriculture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Environment</title>
-      <link>https://www.agrisoil.us/categories/environment/</link>
+      <link>https://agrisoil.us/categories/environment/</link>
       <pubDate>Tue, 20 Dec 2022 00:04:05 +0530</pubDate>
       
-      <guid>https://www.agrisoil.us/categories/environment/</guid>
+      <guid>https://agrisoil.us/categories/environment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Soil</title>
-      <link>https://www.agrisoil.us/categories/soil/</link>
+      <link>https://agrisoil.us/categories/soil/</link>
       <pubDate>Tue, 20 Dec 2022 00:04:05 +0530</pubDate>
       
-      <guid>https://www.agrisoil.us/categories/soil/</guid>
+      <guid>https://agrisoil.us/categories/soil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Climate Change</title>
-      <link>https://www.agrisoil.us/categories/climate-change/</link>
+      <link>https://agrisoil.us/categories/climate-change/</link>
       <pubDate>Thu, 15 Dec 2022 00:04:05 +0530</pubDate>
       
-      <guid>https://www.agrisoil.us/categories/climate-change/</guid>
+      <guid>https://agrisoil.us/categories/climate-change/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geology</title>
-      <link>https://www.agrisoil.us/categories/geology/</link>
+      <link>https://agrisoil.us/categories/geology/</link>
       <pubDate>Mon, 05 Dec 2022 00:04:05 +0530</pubDate>
       
-      <guid>https://www.agrisoil.us/categories/geology/</guid>
+      <guid>https://agrisoil.us/categories/geology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gardening</title>
-      <link>https://www.agrisoil.us/categories/gardening/</link>
+      <link>https://agrisoil.us/categories/gardening/</link>
       <pubDate>Sat, 03 Dec 2022 00:04:05 +0530</pubDate>
       
-      <guid>https://www.agrisoil.us/categories/gardening/</guid>
+      <guid>https://agrisoil.us/categories/gardening/</guid>
       <description></description>
     </item>
     
