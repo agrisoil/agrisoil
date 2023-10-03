@@ -6,5 +6,5 @@ ShowReadingTime: false
 # ShowBreadCrumbs: false
 ---
 તમે અમારો અહીં સંપર્ક કરી શકો છો!: 
-contactagrisoil@gmail.com
+pranav@agrinurture.us
 
